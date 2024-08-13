@@ -7,8 +7,8 @@ within the shadows of the Matrix.
 
 
 - 💬 Info: Operational Intelligence Engineer / Professional Developer
-- 💬 State: Red, Blue and Purple Security Focused
-- 💬 Addr: USA
+- 💬 Status: Security Focused
+- 💬 Address: USA
 
 ### 🤔 Hack The Box Badge
 
