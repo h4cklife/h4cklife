@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-Welcome to my public repositories. I am an Operational Intelligence Engineer
-and Professional Developer with a Security focus. It has been some time since
-I have developed and published any public code but I am always lurking 
-within the shadows of the Matrix. 
+Welcome to Stackweb's public repositories.
 
 
 - 💬 Info: Operational Intelligence Engineer / Professional Developer
